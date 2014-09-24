@@ -1,0 +1,51 @@
+/* Bootstrap Custom */
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+.font-light{
+	font-weight:300;
+}
+.font-xbold{
+	font-weight:700;
+}
+.font-bold{
+	font-weight:600;
+}
+
+.btn.btn-small{
+	padding:8px 20px;
+	font-size:18px;
+}
+.btn.btn-big{
+	font-size:30px;
+}
+.btn.btn-blue{
+	color:#fff;
+	background-color:rgba(60,112,139,1);
+}
+.btn.btn-blue:hover{
+	background-color:#437c99;
+}
+.btn.btn-blue-light{
+	color:#fff;
+	background-color:rgba(88,165,213,1);
+}
+.btn.btn-blue-light:hover{
+	background-color:rgba(65,180,252,1);
+}
+.valign-bottom{
+	vertical-align:bottom;
+}
+.valign-middle{
+	vertical-align:middle;
+}

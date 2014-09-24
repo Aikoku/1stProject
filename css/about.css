@@ -1,0 +1,31 @@
+.creative {
+    color: #fff;
+    letter-spacing: -1px;
+    font-size: 40px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    line-height: 50px;
+    background: url(../img/background-4.jpg) no-repeat center center;
+    background-size: cover;
+}
+.service-medal-icon{
+    display:inline-block;
+    width:108px;
+    height:108px;
+    border-radius:54px;
+    background:url(../img/medal.png);
+}
+#about-text{
+    padding-top: 75px;
+    padding-bottom: 70px;
+}
+.col-padded{
+    padding: 0 50px 0 50px;
+}
+.team-member{
+    height: 350px;
+    background: url(../img/team-photo.png) no-repeat center center;
+}
+.right-border {
+    border-right: 1px #78bac9 solid;
+}

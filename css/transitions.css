@@ -1,0 +1,18 @@
+.portfolio-item-overlay, .portfolio-item-title, .portfolio-item-category {
+    -webkit-transition:all .4s ease;
+    -moz-transition:all .4s ease;
+    -o-transition:all .4s ease;
+    transition:all .4s ease;
+}
+.service-more-icon, .btn, .flickr-image {
+    -webkit-transition:all .3s ease;
+    -moz-transition:all .3s ease;
+    -o-transition:all .3s ease;
+    transition:all .3s ease;
+}
+.client-item img{
+	-webkit-transition:all .5s ease;
+    -moz-transition:all .5s ease;
+    -o-transition:all .5s ease;
+    transition:all .5s ease;
+}
