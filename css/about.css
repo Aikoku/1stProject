@@ -65,13 +65,13 @@
 
 .team-decor{
     position:absolute;
-    width:285px;
+    width:100%;
 }
-.team-decor-top{
-    margin-top:290px;
+.team-decor-top {
+    margin-top: -167px;
 }
 .team-decor-bottom{
-     margin-top:457px;
+     /*margin-top:457px;*/
  }
 .team-corner{
     float:left;

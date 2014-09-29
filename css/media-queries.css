@@ -1,4 +1,9 @@
 /*Intern-Mode ON*/
+@media (max-width: 1200px) {
+    .team-decor{
+        /*width:235px;*/
+    }
+}
 @media (max-width: 992px) {
     .right-border {
         border-right: none;
@@ -12,6 +17,15 @@
     .certified-container-img {
         margin-top: 40px;
     }
+    .team-decor{
+        /*width:720px;*/
+    }
+    .team-decor-top{
+        /*margin-top: -60px;*/
+    }
+    .team-decor-bottom {
+         /*margin-top: 107px;*/
+    }
 }
 @media (min-width: 992px) {
     .certified-container-btn {
@@ -19,6 +33,11 @@
     }
     .certified-container-img {
         margin-top: 40px;
+    }
+}
+@media (max-width: 767px) {
+    .portfolio-item {
+        width: 100%;
     }
 }
 /*Intern-Mode OFF*/
