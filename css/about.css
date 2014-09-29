@@ -33,8 +33,6 @@
     padding-top: 15px;
 }
 .team-member{
-    /*padding-top:100px;*/
-    /*padding-bottom:100px;*/
     color: #22515c;
     font-weight: lighter;
     letter-spacing: 1px;
@@ -43,7 +41,9 @@
     background-size:cover;
     height: 350px;
     padding: 0 0 0 0;
-    /*background: url(../img/team-photo.png) no-repeat center center;*/
+    margin-right: 6px;
+    margin-bottom: 150px;
+    width:24%;
 }
 .right-border {
     border-right: 1px #78bac9 solid;
