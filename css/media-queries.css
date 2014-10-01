@@ -1,10 +1,4 @@
 /*Intern-Mode ON*/
-@media (max-width: 1200px) {
-    .team-decor{
-        /*width:235px;*/
-    }
-}
-
 @media (max-width: 992px) {
     .right-border {
         border-right: none;
@@ -21,9 +15,8 @@
     .team-member{
         width: 265px;
     }
-
-
 }
+
 @media (min-width: 992px) {
     .certified-container-btn {
         margin-top: 100px;
@@ -32,6 +25,7 @@
         margin-top: 40px;
     }
 }
+
 @media (max-width: 767px) {
     .portfolio-item {
         width: 100%;
