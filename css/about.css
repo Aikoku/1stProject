@@ -76,6 +76,12 @@
     background-size:100% 100%;
     background-repeat:no-repeat;
 }
+.image-responsive{
+    display: inline-block;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
 .team-corner-top.team-corner-left{
     background-image:url(../img/team-corner-top-left.png);
 }
