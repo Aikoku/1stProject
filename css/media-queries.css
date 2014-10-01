@@ -4,6 +4,7 @@
         /*width:235px;*/
     }
 }
+
 @media (max-width: 992px) {
     .right-border {
         border-right: none;
@@ -17,15 +18,11 @@
     .certified-container-img {
         margin-top: 40px;
     }
-    .team-decor{
-        /*width:720px;*/
+    .team-member{
+        width: 265px;
     }
-    .team-decor-top{
-        /*margin-top: -60px;*/
-    }
-    .team-decor-bottom {
-         /*margin-top: 107px;*/
-    }
+
+
 }
 @media (min-width: 992px) {
     .certified-container-btn {

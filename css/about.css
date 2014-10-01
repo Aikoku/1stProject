@@ -41,9 +41,9 @@
     background-size:cover;
     height: 350px;
     padding: 0 0 0 0;
-    margin-right: 6px;
-    margin-bottom: 150px;
+    margin: 0 5px 150px 5px;
     width:24%;
+    display: inline-block;
 }
 .right-border {
     border-right: 1px #78bac9 solid;
@@ -51,7 +51,7 @@
 
 /*Team Corner*/
 .team-padding{
-    padding-bottom: 200px;
+    padding-bottom: 100px;
 }
 .team-info{
     display: inline-block;
